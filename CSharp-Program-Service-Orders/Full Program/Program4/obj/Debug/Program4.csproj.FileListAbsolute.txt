@@ -1,0 +1,7 @@
+D:\#Holding Bay\CIS 199 VS Work Area\Program4\Program4\bin\Debug\Program4.exe.config
+D:\#Holding Bay\CIS 199 VS Work Area\Program4\Program4\bin\Debug\Program4.exe
+D:\#Holding Bay\CIS 199 VS Work Area\Program4\Program4\bin\Debug\Program4.pdb
+D:\#Holding Bay\CIS 199 VS Work Area\Program4\Program4\obj\Debug\Program4.csprojAssemblyReference.cache
+D:\#Holding Bay\CIS 199 VS Work Area\Program4\Program4\obj\Debug\Program4.csproj.CoreCompileInputs.cache
+D:\#Holding Bay\CIS 199 VS Work Area\Program4\Program4\obj\Debug\Program4.exe
+D:\#Holding Bay\CIS 199 VS Work Area\Program4\Program4\obj\Debug\Program4.pdb
